@@ -1,4 +1,13 @@
 # SRSC_PROJ2
+
+## Overview
+
+Academic secure communications project exploring the application of an SHP protection protocol to two services: TFTP file transfer and media streaming. Both service implementations contain their own integration of the protocol.
+
+**Project areas:** Secure communications, file transfer, streaming, protocol integration.
+
+---
+
 PROJECT 2 - SRSC 2024
 
 AUTHOR: Pedro Galego
